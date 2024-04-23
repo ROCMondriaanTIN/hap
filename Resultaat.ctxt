@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Resultaat
+comment0.text=\n\ Geeft\ aan\ of\ het\ spel\ gewonnen\ is,\ of\ verloren.\ Wordt\ getoond\n\ bovenaan\ in\ het\ midden\ van\ het\ scherm.\n
+comment1.params=
+comment1.target=Resultaat()
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Levens
+comment0.text=\n\ Het\ aantal\ overblijvende\ levens.\ Wordt\ bovenaan\ rechts\ op\ het\ scherm\n\ getoond.\n
+comment1.params=
+comment1.target=Levens()
+comment2.params=
+comment2.target=void\ toon()
+numComments=3
